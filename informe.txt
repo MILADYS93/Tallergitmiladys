@@ -1,0 +1,1 @@
+lo visto en la clase anterior fue todo lo relacionado con git, que es, cual es su funcionamiento, configuracion,comados,eliminacion de archivos etc
