@@ -1,3 +1,9 @@
 elñ dia de hoy realizamos un taller utilizando el tema visto de la clase anterior de git.
 Es un sistema de control de  versiones gratuito y de código  abierto creado por Linus Torvalds en  2005.
 Git incluye las funcionalidades de  crear ramas y fusiones y reescribir  historiales de repositorios, lo cual ha  dado como resultado muchas  herramientas y flujos de trabajo  innovadores y eficaces
+ramas
+Crear un archivo en visual llamado privado.txt y escribir  usuario y contaseña.
+Ver el estado del repositorio
+Crear un archivo llamado .gitignore: escribir el nombre del  archivo que no desea confirmar o realizar commit (guardar)
+Ver el estado del repositorio
+Agregar archivo .gitignore y realizar commit con titulo  asociado
