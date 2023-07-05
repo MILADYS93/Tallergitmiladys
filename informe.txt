@@ -1,1 +1,3 @@
-lo visto en la clase anterior fue todo lo relacionado con git, que es, cual es su funcionamiento, configuracion,comados,eliminacion de archivos etc
+elñ dia de hoy realizamos un taller utilizando el tema visto de la clase anterior de git.
+Es un sistema de control de  versiones gratuito y de código  abierto creado por Linus Torvalds en  2005.
+Git incluye las funcionalidades de  crear ramas y fusiones y reescribir  historiales de repositorios, lo cual ha  dado como resultado muchas  herramientas y flujos de trabajo  innovadores y eficaces
